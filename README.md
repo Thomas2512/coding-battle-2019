@@ -13,7 +13,7 @@ Feel free to contribute!
 
 ## Usage
 
-Just run the latest .py file, and input the data as described in the problem statements PDF files.
+Run the latest .py file, and input the data as described in the problem statements PDF files.
 
 
 ## Contributing
