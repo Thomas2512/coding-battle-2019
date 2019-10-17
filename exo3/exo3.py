@@ -15,8 +15,8 @@ for i in range(N):
         x[i][j], y[i][j] = map(float, input().split(" "))
 
 
-x_0 = dict(x)
-y_0 = dict(y)
+# x_0 = dict(x)
+# y_0 = dict(y)
 
 # for i in range(N):
 #     for j in range(T):
@@ -30,7 +30,7 @@ for i in range(N):
     possible_nom = False
     while not possible:
         for t in range(T-1):
-            dist = math.sqrt((x[i][t+1] - xb)**2 + (y_0[i][t+1] - yb)**2) + math.sqrt((x[i][t] - xb)**2 + (y_0[i][t] - yb)**2)
+            dist = math.sqrt((x[i][t+1] - xb)**2 + (y[i][t+1] - yb)**2) + math.sqrt((x[i][t] - xb)**2 + (y[i][t] - yb)**2)
             if dist <= 100:
                 possible = True
                 possible_nom = True
