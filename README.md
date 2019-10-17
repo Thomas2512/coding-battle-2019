@@ -1,5 +1,5 @@
-# codingbattle-2019
-Coding Battle 2019 - Insalgo
+# Coding Battle 2019 - Insalgo
+Coding Battle 2019, organized by Insalgo
 
 You can learn more about it here:
 https://cb.le-shaker.com/
