@@ -34,7 +34,7 @@ To test your solutions, you can use piping in a terminal. For example, on Linux 
 ```Shell
 # Python
 python solution.py < ../input/input0.txt
-
+```
 
 ## Contributing
 Pull requests are welcome.
